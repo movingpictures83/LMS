@@ -1,0 +1,2 @@
+Prefix plugins/LMS/example/
+Plugin LMS inputfile abundR.csv outputfile abundR.lms.csv
