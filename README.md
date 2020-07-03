@@ -2,7 +2,7 @@
 # Language: R
 # Input: CSV (abundances)
 # Output: CSV (correlations)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
 
 PluMA plugin that runs the Least Mean Squares (LMS, Widrow and Hoff, 1960) algorithm, for regression analysis.
 
